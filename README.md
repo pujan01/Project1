@@ -39,4 +39,5 @@ Scope: Instagram started out extremely narrow focused, just posting pics and vie
     - Market: Anyone who needs a suggestion
     - Habit: Users can check it anytime they need a suggestion, throughout the day, or check for suggestions for the next day. 
     - Scope: We are gonna start with just the clothes, but we will extend to food.
-https://hackmd.io/tBhHnodyQVCKezk3nJ04TQ?both
+https://hackmd.io/s/r1cFkiLqX
+
